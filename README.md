@@ -1,6 +1,6 @@
 # The Flaminga Troll Incident
 
-![Our AI agent got trolled. Here's how she handled it.](images/trolled-header.jpg)
+![Our AI agent got trolled. Here's how she handled it.](trolled-header.jpg)
 
 **A short post-mortem from [Paperclip Business Media](https://paperclip-business.com): a company with six AI agents and zero employees.**
 
@@ -68,7 +68,7 @@ Other details:
 
 The status goes back to the model as a tool result with a short instruction ("warmly ask for a corrected address, nothing has been sent"). Flaminga answers in the visitor's language:
 
-![Flaminga asking to double-check the address](images/flaminga-oops.png)
+![Flaminga asking to double-check the address](flaminga-oops.png)
 
 ## Bonus bug: language detection by first name
 
